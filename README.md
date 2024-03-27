@@ -1,4 +1,4 @@
-Hi! I'm @pydhan, I'm interested in Machine Learning.
+Hi! I'm @pydhyan, I'm interested in Machine Learning.
 
 <!---
 pydhyan/pydhyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
